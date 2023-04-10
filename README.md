@@ -1,6 +1,6 @@
-- [ x ] Text
+- [x] Text
 - [ ] Heading
-- [ x ] Box
+- [x] Box
 - [ ] Button
 - [ ] TextInput
 - [ ] TextArea
