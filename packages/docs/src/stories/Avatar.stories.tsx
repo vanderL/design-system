@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/vanderL.png',
     alt: 'Vander Lima de Andrade',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
