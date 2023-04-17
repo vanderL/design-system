@@ -5,7 +5,6 @@ export const MultiStepContainer = styled('div', {})
 
 export const Label = styled(Text, {
   color: '$gray200',
-
   defaultVariants: {
     size: 'xs',
   },
@@ -13,9 +12,9 @@ export const Label = styled(Text, {
 
 export const Steps = styled('div', {
   display: 'grid',
-  gridTemplateColumns: 'repeat(var(--steps-size), 1fr)',
   gap: '$2',
   marginTop: '$1',
+  gridTemplateColumns: 'repeat(var(--steps-size), 1fr)',
 })
 
 export const Step = styled('div', {
