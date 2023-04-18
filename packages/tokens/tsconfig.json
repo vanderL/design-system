@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/ts-config/base.json",
+  "extends": "@design-system-ui-vla/ts-config/base.json",
   "include": [
     "src"
   ]
