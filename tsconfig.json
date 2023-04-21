@@ -1,0 +1,6 @@
+{
+  "extends": "@design-system-ui-vla/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
